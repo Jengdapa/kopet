@@ -15,3 +15,4 @@ bot = Bot(
 bot.start()
 run()
 idle()
+print("deniMG BOT Start ...")
